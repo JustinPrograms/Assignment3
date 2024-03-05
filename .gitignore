@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Ignore all files by default
+*
+
+# But track specific files
+!StackADT.java
+!ArrayStack.java
+!Pond.java
+!CellComponent.java
+!HexLayout.java
+!Hexagon.java
+!FoodHexagon.java
+!CollectionException.java
+!IllegalArgumentException.java
+!InvalidMapException.java
+!InvalidNeighbourIndexException.java
+!UniquePriorityQueueADT.java
+!ArrayUniquePriorityQueue.java
+!FrogPath.java
+
+
