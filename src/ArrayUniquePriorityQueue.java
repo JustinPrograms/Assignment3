@@ -40,6 +40,7 @@ public class ArrayUniquePriorityQueue<T> implements UniquePriorityQueueADT<T> {
             }
         }
 
+
         // Expand the capacity if the arrays are full
         if (count == queue.length) {
             expandCapacity();
